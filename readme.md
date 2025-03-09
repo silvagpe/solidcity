@@ -52,7 +52,7 @@ feeder.Feed();
 
 ## A tale of Solid City. (2/5)
 
-### Open/close principle (OCP).
+### Open/closed principle (OCP).
 
 In the foggy alleys of SolidCity, the old Gadget-Maker was hard at work, creating a single crime-fighting tool - a B-Blaster - that fired nets, smoke and flashbangs. Every time a new villain appeared, he dismantled the blaster to add features, leaving it broken and unreliable. Then one day the old Gadget-Maker heard a word of advice from his friend OCP Shadow. “Build it to grow, not to change!”. This advice never left his head, so he thought, I'll design a basic Blaster-Blueprint, open to new gadgets, like the Net-Launcher or the Smoke-Bomber, allowing new functions to be connected, without having to dismantle the original. Now, the heroes of SolidCity have easily expanded their arsenal while keeping the core safe and strong, thanks to the Open/Closed Principle.
 
