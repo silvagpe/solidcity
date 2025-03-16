@@ -254,3 +254,6 @@ towerWithLight.Alert();
 ```
 
 #### Explanation: The BTower now uses the IAlarm plan, not just a BellRinger. This means it can switch to any alert (bell, light, etc.) without changing the tower’s code, following DIP to stay simple and flexible in SolidCity!
+
+
+
